@@ -1,5 +1,3 @@
-Tentu, berikut adalah konten README dalam bentuk teks:
-
 ```
 Analisis Data Menggunakan Python
 ===============================
